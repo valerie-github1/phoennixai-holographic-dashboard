@@ -1,0 +1,5 @@
+{
+  "name": "PhoennixAI Holographic Dashboard",
+  "description": "A futuristic, holographic EV dashboard visualization using React, Three.js (React Three Fiber), and Tailwind CSS. Features real-time telemetry simulation and a stunning 3D wireframe interface.",
+  "requestFramePermissions": []
+}
